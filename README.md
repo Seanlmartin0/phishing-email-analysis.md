@@ -11,7 +11,7 @@ This repository contains hands-on, non-technical cybersecurity projects designed
 - Covers password complexity, expiration, and account lockout controls.
 - Demonstrates understanding of basic security policies and how to evaluate them.
 
-📄 [View File → `password-policy-review.md`](./password-policy-review.md)
+ [View File → `password-policy-review.md`](./password-policy-review.md)
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains hands-on, non-technical cybersecurity projects designed
 - Identifies red flags such as suspicious domains, urgency tactics, and generic greetings.
 - Includes mitigation tips to prevent credential theft.
 
-📄 [View File → `phishing-email-analysis.md`](./phishing-email-analysis.md)
+ [View File → `phishing-email-analysis.md`](./phishing-email-analysis.md)
 
 ---
 
