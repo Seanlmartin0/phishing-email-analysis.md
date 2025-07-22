@@ -24,7 +24,7 @@ This repository contains hands-on, non-technical cybersecurity projects designed
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 - Beginner-friendly projects with no coding required
 - All files formatted in Markdown for easy viewing
@@ -32,4 +32,4 @@ This repository contains hands-on, non-technical cybersecurity projects designed
 
 ---
 
-📬 **Questions or feedback?** Feel free to open an issue or connect with me on LinkedIn.
+ **Questions or feedback?** Feel free to open an issue or connect with me on LinkedIn.
