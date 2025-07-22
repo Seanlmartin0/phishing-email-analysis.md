@@ -1,0 +1,54 @@
+# Phishing Email Analysis – Netflix Billing Scam
+
+## 📨 Sample Email
+
+> **From:** service@netflix-bill.com  
+> **Subject:** Your Netflix Payment Failed – Immediate Action Required  
+>
+> Dear Customer,  
+> We were unable to process your last payment. Your account will be suspended in 24 hours.  
+>
+> Please update your payment details here:  
+> [http://netflix-update-payment.com/login](http://netflix-update-payment.com/login)  
+>
+> Thank you,  
+> Netflix Billing Team
+
+---
+
+## 🔍 Analysis
+
+### 1. **Suspicious Sender**
+- The domain `@netflix-bill.com` is not associated with the legitimate Netflix domain (`@netflix.com`).
+- Attackers often register lookalike domains to trick users.
+
+### 2. **Urgency Tactic**
+- “Your account will be suspended in 24 hours” is meant to pressure the recipient into acting without thinking.
+- This is a classic **social engineering** technique.
+
+### 3. **Phishing Link**
+- The link leads to a fake login page designed to steal credentials.
+- The domain `netflix-update-payment.com` is not a known Netflix property.
+
+### 4. **Generic Greeting**
+- Legitimate services usually address customers by name.
+- “Dear Customer” is a red flag.
+
+---
+
+## Prevention Tips
+
+- **Verify the sender’s domain** before clicking links.
+- **Do not click** suspicious links — hover to preview the URL first.
+- Enable **multi-factor authentication** (MFA) to protect accounts even if credentials are stolen.
+- Report phishing emails to your security team or service provider.
+
+---
+
+## Summary
+
+This phishing email uses urgency and a fake login page to try to steal user credentials. An alert user should notice the suspicious domain, generic greeting, and pressure tactics. Awareness training and technical controls like MFA are key to stopping these attacks.
+
+---
+
+*Created as part of a cybersecurity portfolio project to demonstrate phishing awareness and analysis.*
